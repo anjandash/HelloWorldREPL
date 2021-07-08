@@ -13,3 +13,4 @@ if __name__ == "__main__":
 
   max_value = max(a,b)
   print("The greater number is: ", max_value)
+  print("Done!")
