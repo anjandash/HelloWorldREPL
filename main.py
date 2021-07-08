@@ -12,5 +12,5 @@ if __name__ == "__main__":
   b = int(input('Enter second number: '))
 
   max_value = max(a,b)
+  print("\n****\n")
   print("The greater number is: ", max_value)
-  print("Done!")
